@@ -7,6 +7,7 @@ TestResults
 *.jtconfig
 *.suo
 *.snk
+.vs
 .JustCode/PersistanceMap.solution-user.settings.xml
 .JustCode/PersistanceMap.solution-user.settings.xml
 _Resharper.*
