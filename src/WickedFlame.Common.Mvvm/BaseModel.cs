@@ -10,70 +10,11 @@ namespace WickedFlame.Common.Mvvm
 	public class BaseModel : NotifyPropertyChangedBase, IDataErrorInfo
 	{
         public BaseModel() { }
-
-        //public BaseModel(DependencyObject parent)
-        //{
-        //    Parent = parent;
-        //}
-
+        
         public virtual void Loaded()
         {
         }
-
-        //public DependencyObject Parent { get; private set; }
-
-        ///// <summary>
-        ///// resolves an instance using InjectionMap
-        ///// </summary>
-        ///// <typeparam name="T"></typeparam>
-        ///// <returns></returns>
-        //protected T GetInstance<T>()
-        //{
-        //    using (var resolver = new InjectionMap.InjectionResolver())
-        //    {
-        //        return resolver.Resolve<T>();
-        //    }
-        //}
-
-        #region ServiceLocator
-
-        //readonly ServiceLocator _serviceLocator = new ServiceLocator();
-
-        ///// <summary>
-        ///// Gets the service locator 
-        ///// </summary>
-        //public ServiceLocator ServiceLocator
-        //{
-        //    get
-        //    {
-        //        return _serviceLocator;
-        //    }
-        //}
-
-        ///// <summary>
-        ///// Gets a service from the service locator
-        ///// </summary>
-        ///// <typeparam name="T">The type of service to return</typeparam>
-        ///// <returns>Returns a service that was registered with the Type T</returns>
-        //public T GetService<T>()
-        //{
-        //    return _serviceLocator.GetService<T>();
-        //}
-
-        ///// <summary>
-        ///// gets a service from the servicelocator. 
-        ///// if the service doesn't exist a new instance is created
-        ///// </summary>
-        ///// <typeparam name="T">type of service you want to get</typeparam>
-        ///// <typeparam name="O">type of instance that will be registered with the type</typeparam>
-        ///// <returns></returns>
-        //public T GetService<T, O>() where O : class, new()
-        //{
-        //    return _serviceLocator.GetService<T, O>();
-        //}
-
-        #endregion
-
+        
 	    #region IDataErrorInfo Members
 
 		/// <summary>
@@ -113,11 +54,11 @@ namespace WickedFlame.Common.Mvvm
 			return null;
 		}
 
-		List<string> validateProperties;
+		List<string> _validateProperties;
 		private void FillValidateProperties()
 		{
 
-			if (validateProperties != null)
+			if (_validateProperties != null)
 				return;
 
 
@@ -127,7 +68,7 @@ namespace WickedFlame.Common.Mvvm
 			//                  select p).ToList();
 			var properties = (from p in this.GetType().GetProperties() select p).ToList();
 
-			validateProperties = (from ia in properties
+			_validateProperties = (from ia in properties
 								  orderby ia.Name
 								  select ia.Name).ToList();
 		}
@@ -144,13 +85,13 @@ namespace WickedFlame.Common.Mvvm
 			get
 			{
 				this.FillValidateProperties();
-				if (validateProperties == null)
+				if (_validateProperties == null)
 				{
 					return true;
 				}
 				else
 				{
-					return !validateProperties.Any(prop => !string.IsNullOrEmpty(this[prop]));
+					return !_validateProperties.Any(prop => !string.IsNullOrEmpty(this[prop]));
 				}
 			}
 		}

@@ -61,6 +61,7 @@
     <Compile Include="BaseModel.cs" />
     <Compile Include="BaseViewModel.cs" />
     <Compile Include="Commands\RelayCommand.cs" />
+    <Compile Include="Commands\RelayCommandOfT.cs" />
     <Compile Include="Commands\RelayKeyBinding.cs" />
     <Compile Include="Commands\RelayMouseBinding.cs" />
     <Compile Include="Common\CrossThreadObservableCollection.cs" />
@@ -77,13 +78,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="ServiceLocator Readme.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Notification\Mediator Readme.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.0">
@@ -106,9 +101,6 @@
       <ProductName>Windows Installer 3.1</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
