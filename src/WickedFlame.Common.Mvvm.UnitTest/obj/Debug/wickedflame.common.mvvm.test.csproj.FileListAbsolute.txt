@@ -1,0 +1,12 @@
+C:\Projekte\WickedFlame\wickedflame.common\test\wickedflame.common.mvvm.test\bin\Debug\wickedflame.common.mvvm.test.dll
+C:\Projekte\WickedFlame\wickedflame.common\test\wickedflame.common.mvvm.test\bin\Debug\wickedflame.common.mvvm.test.pdb
+C:\Projekte\WickedFlame\wickedflame.common\test\wickedflame.common.mvvm.test\obj\Debug\wickedflame.common.mvvm.test.dll
+C:\Projekte\WickedFlame\wickedflame.common\test\wickedflame.common.mvvm.test\obj\Debug\wickedflame.common.mvvm.test.pdb
+C:\Projekte\WickedFlame\wickedflame.common\test\wickedflame.common.mvvm.test\obj\Debug\wickedflame.common.mvvm.test.csprojResolveAssemblyReference.cache
+D:\Projekte\WickedFlame\wickedflame.common\test\wickedflame.common.mvvm.test\bin\Debug\wickedflame.common.mvvm.test.dll
+D:\Projekte\WickedFlame\wickedflame.common\test\wickedflame.common.mvvm.test\bin\Debug\wickedflame.common.mvvm.test.pdb
+D:\Projekte\WickedFlame\wickedflame.common\test\wickedflame.common.mvvm.test\bin\Debug\wickedflame.common.mvvm.dll
+D:\Projekte\WickedFlame\wickedflame.common\test\wickedflame.common.mvvm.test\bin\Debug\wickedflame.common.mvvm.pdb
+D:\Projekte\WickedFlame\wickedflame.common\test\wickedflame.common.mvvm.test\obj\Debug\wickedflame.common.mvvm.test.csprojResolveAssemblyReference.cache
+D:\Projekte\WickedFlame\wickedflame.common\test\wickedflame.common.mvvm.test\obj\Debug\wickedflame.common.mvvm.test.dll
+D:\Projekte\WickedFlame\wickedflame.common\test\wickedflame.common.mvvm.test\obj\Debug\wickedflame.common.mvvm.test.pdb

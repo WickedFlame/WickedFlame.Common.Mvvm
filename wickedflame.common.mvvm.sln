@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WickedFlame.Common.Mvvm", "src\WickedFlame.Common.Mvvm\WickedFlame.Common.Mvvm.csproj", "{E26183F7-D023-4629-8CE7-95B337279A12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WickedFlame.Common.Mvvm.UnitTest", "src\WickedFlame.Common.Mvvm.UnitTest\WickedFlame.Common.Mvvm.UnitTest.csproj", "{F4C357E2-62CA-49D3-9C44-C9FF551C90D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E26183F7-D023-4629-8CE7-95B337279A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26183F7-D023-4629-8CE7-95B337279A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26183F7-D023-4629-8CE7-95B337279A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26183F7-D023-4629-8CE7-95B337279A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4C357E2-62CA-49D3-9C44-C9FF551C90D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C357E2-62CA-49D3-9C44-C9FF551C90D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C357E2-62CA-49D3-9C44-C9FF551C90D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C357E2-62CA-49D3-9C44-C9FF551C90D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

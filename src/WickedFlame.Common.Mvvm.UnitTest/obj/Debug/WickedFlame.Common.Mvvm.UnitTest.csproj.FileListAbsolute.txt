@@ -1,0 +1,9 @@
+D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm.UnitTest\bin\Debug\wickedflame.common.mvvm.dll
+D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm.UnitTest\bin\Debug\wickedflame.common.mvvm.pdb
+D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm.UnitTest\obj\Debug\WickedFlame.Common.Mvvm.UnitTest.csprojResolveAssemblyReference.cache
+D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm.UnitTest\bin\Debug\WickedFlame.Common.Mvvm.UnitTest.dll
+D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm.UnitTest\bin\Debug\WickedFlame.Common.Mvvm.UnitTest.pdb
+D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm.UnitTest\obj\Debug\WickedFlame.Common.Mvvm.UnitTest.dll
+D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm.UnitTest\obj\Debug\WickedFlame.Common.Mvvm.UnitTest.pdb
