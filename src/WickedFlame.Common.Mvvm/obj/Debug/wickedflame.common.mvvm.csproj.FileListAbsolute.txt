@@ -16,3 +16,4 @@ D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm\bin\
 D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm\obj\Debug\wickedflame.common.mvvm.g.resources
 D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm\obj\Debug\wickedflame.common.mvvm.dll
 D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm\obj\Debug\wickedflame.common.mvvm.pdb
+D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm\bin\Debug\WickedFlame.Common.Mvvm.XML

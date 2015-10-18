@@ -11,3 +11,9 @@ D:\Projekte\WickedFlame\wickedflame.common\wickedflame.common.mvvm\bin\Release\w
 D:\Projekte\WickedFlame\wickedflame.common\wickedflame.common.mvvm\obj\Release\wickedflame.common.mvvm.g.resources
 D:\Projekte\WickedFlame\wickedflame.common\wickedflame.common.mvvm\obj\Release\wickedflame.common.mvvm.dll
 D:\Projekte\WickedFlame\wickedflame.common\wickedflame.common.mvvm\obj\Release\wickedflame.common.mvvm.pdb
+D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm\bin\Release\WickedFlame.Common.Mvvm.XML
+D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm\bin\Release\WickedFlame.Common.Mvvm.dll
+D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm\bin\Release\WickedFlame.Common.Mvvm.pdb
+D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm\obj\Release\WickedFlame.Common.Mvvm.g.resources
+D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm\obj\Release\WickedFlame.Common.Mvvm.dll
+D:\Projekte\WickedFlame\WickedFlame.Common.Mvvm\src\WickedFlame.Common.Mvvm\obj\Release\WickedFlame.Common.Mvvm.pdb

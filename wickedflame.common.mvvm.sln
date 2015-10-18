@@ -1,9 +1,18 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WickedFlame.Common.Mvvm", "src\WickedFlame.Common.Mvvm\WickedFlame.Common.Mvvm.csproj", "{E26183F7-D023-4629-8CE7-95B337279A12}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WickedFlame.Common.Mvvm.UnitTest", "src\WickedFlame.Common.Mvvm.UnitTest\WickedFlame.Common.Mvvm.UnitTest.csproj", "{F4C357E2-62CA-49D3-9C44-C9FF551C90D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 Tests", "02 Tests", "{AD347277-6DAD-4B6A-9299-8117C8995DEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 Solution Items", "01 Solution Items", "{706D825C-BD85-441A-AA03-29BA89B552C8}"
+	ProjectSection(SolutionItems) = preProject
+		src\WickedFlame.Common.Mvvm.nuspec = src\WickedFlame.Common.Mvvm.nuspec
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,5 +31,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F4C357E2-62CA-49D3-9C44-C9FF551C90D5} = {AD347277-6DAD-4B6A-9299-8117C8995DEA}
 	EndGlobalSection
 EndGlobal
